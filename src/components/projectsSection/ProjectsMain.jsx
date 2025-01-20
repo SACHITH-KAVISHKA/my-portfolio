@@ -8,14 +8,14 @@ const projects = [
     name: "Color Detection Application",
     year: "Sep2024",
     align: "right",
-    image: "https://i.pinimg.com/1200x/a9/bf/b1/a9bfb1163e57e106806313c3cac932ce.jpg",
+    image: "images/color_detecter.png",
     link: "https://github.com/SACHITH-KAVISHKA/color-detection-application.git",
   },
   {
     name: "Cricket Management System",
     year: "Oug2024",
     align: "left",
-    image: "https://i.pinimg.com/736x/e5/6e/b0/e56eb0ca4f76c8d175b1b4499f104cd2.jpg",
+    image: "images/cricket.jpeg",
     link: 'https://github.com/SandaruAbey/ITP_Project_Update',
   },
   {
